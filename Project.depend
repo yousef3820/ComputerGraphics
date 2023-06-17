@@ -1,0 +1,192 @@
+# depslib dependency file v1.0
+1684346499 source:g:\fcai\third year\second semester\computer graphics\project\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<vector>
+	"Shape.h"
+	"DDALine.cpp"
+	"BresenhamLine.cpp"
+	"ParametricLine.cpp"
+	"Circle Algorithms/DirectCircle.cpp"
+	"Circle Algorithms/PolarCircle.cpp"
+	"Circle Algorithms/IterativePolarCircle.cpp"
+	"Circle Algorithms/MidpointCircle.cpp"
+	"Circle Algorithms/AdvancedMidpointCircle.cpp"
+	"Circle Algorithms/FillingCircleWithLines.cpp"
+	"Circle Algorithms/FillingCircleWithCircles.cpp"
+	"Ellipse Algorithms/DirectEllipse.cpp"
+	"Ellipse Algorithms/PolarEllipse.cpp"
+	"Ellipse Algorithms/MidpointEllipse.cpp"
+	"Curves/FillingSquareWithHermite.cpp"
+	"Curves/FillingRectangleWithBezier.cpp"
+	"Curves/CardinalSpline.cpp"
+	"Filling Algorithms/RecursiveFloodFilling.cpp"
+	"Filling Algorithms/NonRecursiveFloodFilling.cpp"
+	"Filling Algorithms/ConvexFilling.cpp"
+	"Filling Algorithms/NonConvexFilling.cpp"
+	"Clipping/Rectangle/RectangleClippingPoint.cpp"
+	"Clipping/Rectangle/RectangleClippingLine.cpp"
+	"Clipping/Rectangle/RectangleClippingPolygon.cpp"
+	"Clipping/Square/SquareClippingPoint.cpp"
+	"Clipping/Square/SquareClippingLine.cpp"
+	"Clipping/Circle/CircleClippingPoint.cpp"
+	"Clipping/Circle/CircleClippingLine.cpp"
+	"Transformation.cpp"
+
+1684346584 g:\fcai\third year\second semester\computer graphics\project\project\line.cpp
+	<windows.h>
+	"Line.h"
+
+1684350042 g:\fcai\third year\second semester\computer graphics\project\project\line.h
+	"Shape.h"
+
+1684346526 g:\fcai\third year\second semester\computer graphics\project\project\shape.h
+	<Windows.h>
+	<iostream>
+
+1684350071 g:\fcai\third year\second semester\computer graphics\project\project\ddaline.cpp
+	"Line.cpp"
+
+1683839630 g:\fcai\third year\second semester\computer graphics\project\project\bresenhamline.cpp
+
+1683840033 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\directcircle.cpp
+	<cmath>
+	"Circle.cpp"
+
+1683838116 g:\fcai\third year\second semester\computer graphics\project\project\circle.h
+	"Shape.h"
+
+1683838061 g:\fcai\third year\second semester\computer graphics\project\project\circle.cpp
+	<windows.h>
+	<cmath>
+	"Circle.h"
+
+1683840033 source:g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\directcircle.cpp
+	<cmath>
+	"Circle.cpp"
+
+1683839189 source:g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\polarcircle.cpp
+	<cmath>
+	"./Circle.h"
+
+1683981104 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\circle.cpp
+	"Circle.h"
+
+1684347352 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\circle.h
+	"../Shape.h"
+
+1683840435 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\polarcircle.cpp
+	<cmath>
+
+1683840169 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\iterativepolarcircle.cpp
+	<cmath>
+
+1683840359 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\midpointcircle.cpp
+	<cmath>
+
+1683840597 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\advancedmidpointcircle.cpp
+	<cmath>
+
+1684263961 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\recursivefloodfilling.cpp
+	<windows.h>
+	"FloodFilling.cpp"
+
+1683863518 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\filling.h
+	"../Shape.h"
+
+1683863988 g:\fcai\third year\second semester\computer graphics\project\project\ellipse algorithms\directellipse.cpp
+	<windows.h>
+	"Ellipse.cpp"
+
+1683864056 g:\fcai\third year\second semester\computer graphics\project\project\ellipse algorithms\ellipse.cpp
+	"Ellipse.h"
+
+1683863527 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\filling.cpp
+	"Filling.h"
+
+1684263967 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\nonrecursivefloodfilling.cpp
+	<windows.h>
+	<stack>
+	"FloodFilling.h"
+
+1684347713 g:\fcai\third year\second semester\computer graphics\project\project\ellipse algorithms\ellipse.h
+	"../Shape.h"
+
+1683865663 g:\fcai\third year\second semester\computer graphics\project\project\ellipse algorithms\polarellipse.cpp
+	<windows.h>
+
+1683865877 g:\fcai\third year\second semester\computer graphics\project\project\ellipse algorithms\midpointellipse.cpp
+	<windows.h>
+
+1684352211 g:\fcai\third year\second semester\computer graphics\project\project\curves\fillingsquarewithhermite.cpp
+	"FillingSquareWithHermite.h"
+
+1684352253 g:\fcai\third year\second semester\computer graphics\project\project\curves\fillingsquarewithhermite.h
+	"../Shape.h"
+
+1684349254 g:\fcai\third year\second semester\computer graphics\project\project\curves\cardinalspline.cpp
+	"CardinalSpline.h"
+
+1684349056 g:\fcai\third year\second semester\computer graphics\project\project\curves\cardinalspline.h
+	"../Shape.h"
+
+1683873880 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\fillingcirclewithlines.cpp
+	<cmath>
+	<iostream>
+
+1683980095 g:\fcai\third year\second semester\computer graphics\project\project\curves\fillingrectanglewithbezier.cpp
+	"FillingRectangleWithBezier.h"
+
+1684349553 g:\fcai\third year\second semester\computer graphics\project\project\curves\fillingrectanglewithbezier.h
+	"../Shape.h"
+
+1683982858 g:\fcai\third year\second semester\computer graphics\project\project\circle algorithms\fillingcirclewithcircles.cpp
+	<cmath>
+	<iostream>
+
+1684350228 g:\fcai\third year\second semester\computer graphics\project\project\clipping\rectangle\rectangleclippingpoint.cpp
+	"../../Shape.h"
+
+1684350233 g:\fcai\third year\second semester\computer graphics\project\project\clipping\rectangle\rectangleclippingline.cpp
+	"../../Shape.h"
+
+1684350564 g:\fcai\third year\second semester\computer graphics\project\project\clipping\square\squareclippingpoint.cpp
+	"../../Shape.h"
+
+1684350891 g:\fcai\third year\second semester\computer graphics\project\project\clipping\square\squareclippingline.cpp
+	"../../Shape.h"
+
+1684350983 g:\fcai\third year\second semester\computer graphics\project\project\clipping\circle\circleclippingpoint.cpp
+	"../../Shape.h"
+
+1684351136 g:\fcai\third year\second semester\computer graphics\project\project\clipping\circle\circleclippingline.cpp
+	"../../Shape.h"
+
+1684263478 g:\fcai\third year\second semester\computer graphics\project\project\parametricline.cpp
+
+1684263927 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\floodfilling.cpp
+	"FloodFilling.h"
+
+1684347917 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\floodfilling.h
+	"../Shape.h"
+
+1684348438 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\convexfilling.cpp
+	<windows.h>
+	"ConvexFillingAlgo.cpp"
+
+1684348656 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\convexfillingalgo.cpp
+	"ConvexFillingAlgo.h"
+
+1684348707 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\convexfillingalgo.h
+	"../Shape.h"
+
+1684348393 g:\fcai\third year\second semester\computer graphics\project\project\filling algorithms\nonconvexfilling.cpp
+	<list>
+
+1684331715 g:\fcai\third year\second semester\computer graphics\project\project\transformation.cpp
+
+1684350185 g:\fcai\third year\second semester\computer graphics\project\project\clipping\rectangle\rectangleclippingpolygon.cpp
+	"../../Shape.h"
+
